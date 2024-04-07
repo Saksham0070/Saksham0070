@@ -12,14 +12,6 @@
 
 - ⚡ Fun fact **I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/saksham-sagar-917941238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saksham Sagar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saksham_sagar1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham_sagar1729" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCXTjNj1PrB6XuGGqR2m99sA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="The Software Guy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/saksham732" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saksham732" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/saksham732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saksham732" height="30" width="40" /></a>
-</p>
 
 **Languages and Tools:**
 
@@ -38,9 +30,31 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham0070&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0070&count_private=true&theme=dracula">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham0070&hide=stars&show_icons=true&theme=dracula&line_height=32" alt="Saksham0070">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham0070&count_private=true&theme=dracula" alt="Saksham0070">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham0070&count_private=true&theme=dracula" alt="Saksham0070" />
 </p>
+
+---
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/saksham-sagar-917941238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saksham Sagar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saksham_sagar1729/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saksham_sagar1729" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXTjNj1PrB6XuGGqR2m99sA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="The Software Guy" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/saksham732" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="saksham732" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/saksham732" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="saksham732" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+    Show ❤️ by starring repositories you find good! 
+    <br />
+    ⭐️ From [Saksham Sagar](https://github.com/Saksham0070/)
+    <br />
+    Also, star and fork this repository if you wish to give this new feature a try!
+  </p>
 
 ---
